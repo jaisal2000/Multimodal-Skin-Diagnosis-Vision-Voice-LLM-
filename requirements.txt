@@ -1,0 +1,7 @@
+gradio
+transformers
+accelerate
+bitsandbytes
+torch
+gtts
+whisper
