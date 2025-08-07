@@ -1,6 +1,8 @@
 
 # Skin Diagnosis Assistant using Med-GEMMA, Whisper, and Gradio
 
+![UI Screen Demo](UI_screen.gif)
+
 ## Overview
 
 This project presents a multimodal AI system for dermatological diagnosis, integrating state-of-the-art vision-language modeling with speech-based user interaction. The system leverages **Med-GEMMA** — a large-scale medical vision-language foundation model developed by Google DeepMind — to analyze skin images alongside user-provided voice prompts and deliver clinically relevant textual and spoken reports.
